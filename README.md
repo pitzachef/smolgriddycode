@@ -1,5 +1,5 @@
-# GriddyCode
-Coding has never been more lit!
+# SmolGriddyCode
+Coding has never been more lit & faster!
 
 
 https://github.com/face-hh/griddycode/assets/69168154/df93830e-6e24-472d-a854-cea026b12890
